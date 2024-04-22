@@ -15,7 +15,7 @@ To compare the effectiveness of the new oral insulin (Auralin) and injectable in
 > Phase two trials are intended to:
 - Test the efficacy and the dose response of a drug.
 - Identify adverse reactions.
-- 
+
 # Data Wrangling
 In this section, all three pieces of data are gathered, accessed its quality and tidiness issues and cleaned the data for better analysis and visualization.
 
