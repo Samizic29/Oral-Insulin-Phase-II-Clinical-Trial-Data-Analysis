@@ -40,7 +40,7 @@ Patients table
 - State column: Inconsistent data, using full and abbreviation names.
 - Data type issue: assigned sex, state, zip code and birthdate columns.
 
-<p> <i> Treatments table </i> </p>
+Treatments table 
 - Missing values in hba1c change column.
 - Invalid data in auralin and novodra columns.
 - lowercase given name and surname.
