@@ -3,6 +3,7 @@
 # Introduction
 
 > What is Insulin?
+
 > Insulin is a naturally occurring hormone your pancreas makes that’s essential for allowing your body to use sugar (glucose) for energy. If your pancreas doesn’t make enough insulin or your body doesn’t use insulin properly, it leads to high blood sugar levels (hyperglycemia). This results in diabetes.
 
 # Objective
@@ -32,7 +33,7 @@ In this section, all three pieces of data are gathered, accessed its quality and
 > Some of the issues:
 <p> <i> Patients table </i> </p>
 - Inconsistent data in the zip code column. Zip code should be string not float
-- Height column: Tim Neudorf height is 27 inches instead of 72 inches
+- Height column: Tim Neudorf height is 27 inches instead of 72 inches.
 - Default John Doe data
 - Given name column: Inaccurate data for Dsvid instead of David
 - State column: Inconsistent data, using full and abbreviation names.
@@ -61,7 +62,8 @@ Auralin (oral) insulin required more dosage of the insulin to help reduce the hb
 
 ## Conclusions
 > The project was done to test the effectiveness of the new oral insulin Auralin compared to injectable insulin Novodra in diabetic patients. The results of the trial demonstrate that the new Auralin oral insulin is noninferior to the standard Novadra injectable insulin for reducing HbA1c in patients with type 1 diabetes.
-> You can check out the full documentation here
+
+> You can check out the full documentation <a href=''>here</a>
 
 ## Skills and Technologies
 - Python libraries (Pandas, Matplotlib, NumPy, Seaborn)
