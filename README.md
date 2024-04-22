@@ -35,15 +35,12 @@ In this section, all three pieces of data are gathered, accessed its quality and
 Patients table
 - Inconsistent data in the zip code column. Zip code should be string not float
 - Height column: Tim Neudorf height is 27 inches instead of 72 inches
-- Default John Doe data
-- Given name column: Inaccurate data for Dsvid instead of David
 - State column: Inconsistent data, using full and abbreviation names.
 - Data type issue: assigned sex, state, zip code and birthdate columns.
 
 Treatments table 
 - Missing values in hba1c change column.
 - Invalid data in auralin and novodra columns.
-- lowercase given name and surname.
 - Missing records: 280 records instead of 350 records.
 
 #### Tidiness Issues
@@ -61,7 +58,6 @@ Treatments table
 - Auralin patients required an average of 8 more units of insulin to establish a normal blood sugar level compared to Novodra patients who required  an average of 0.4 units less of insulin. 
 - The difference in the Mean Hba1c Change of Auralin and Novodra is much smaller which may imply the new oral insulin is effective and can help reduce high blood sugar level.
 Auralin (oral) insulin required more dosage of the insulin to help reduce the hbalc (hemoglobin A1c) while Novodra (injectable) insulin required less dosage of the insulin to help reduce the hbalc (hemoglobin A1c).
-- Auralin (oral) insulin required more dosage of the insulin to help reduce the hbalc (hemoglobin A1c) while Novodra (injectable) insulin required less dosage of the insulin to help reduce the hbalc (hemoglobin A1c).
 
 ## Limitation
 - The datasets are not based on consecutive weeks trials of the treatments, which made it hard to provide valuable data insights using statistical models.
