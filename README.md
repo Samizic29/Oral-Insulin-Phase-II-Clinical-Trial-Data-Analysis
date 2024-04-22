@@ -32,12 +32,13 @@ In this section, all three pieces of data are gathered, accessed its quality and
 > They are issues with the data content like missing data, Inaccurate data, Inconsistent data etc. It is also known as dirty data.
 > Some of the issues:
 
-<p> <i> Patients table </i> </p>
+Patients table
 - Inconsistent data in the zip code column. Zip code should be string not float
-- Height column: Tim Neudorf height is 27 inches instead of 72 inches.
+- Height column: Tim Neudorf height is 27 inches instead of 72 inches
 - Default John Doe data
 - Given name column: Inaccurate data for Dsvid instead of David
 - State column: Inconsistent data, using full and abbreviation names.
+- Data type issue: assigned sex, state, zip code and birthdate columns.
 
 <p> <i> Treatments table </i> </p>
 - Missing values in hba1c change column.
