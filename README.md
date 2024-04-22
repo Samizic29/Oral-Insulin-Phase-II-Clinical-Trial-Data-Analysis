@@ -31,6 +31,7 @@ In this section, all three pieces of data are gathered, accessed its quality and
 #### Quality Issues
 > They are issues with the data content like missing data, Inaccurate data, Inconsistent data etc. It is also known as dirty data.
 > Some of the issues:
+
 <p> <i> Patients table </i> </p>
 - Inconsistent data in the zip code column. Zip code should be string not float
 - Height column: Tim Neudorf height is 27 inches instead of 72 inches.
