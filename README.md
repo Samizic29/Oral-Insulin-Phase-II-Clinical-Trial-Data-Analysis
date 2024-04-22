@@ -61,6 +61,12 @@ Treatments table
 - Auralin patients required an average of 8 more units of insulin to establish a normal blood sugar level compared to Novodra patients who required  an average of 0.4 units less of insulin. 
 - The difference in the Mean Hba1c Change of Auralin and Novodra is much smaller which may imply the new oral insulin is effective and can help reduce high blood sugar level.
 Auralin (oral) insulin required more dosage of the insulin to help reduce the hbalc (hemoglobin A1c) while Novodra (injectable) insulin required less dosage of the insulin to help reduce the hbalc (hemoglobin A1c).
+- Auralin (oral) insulin required more dosage of the insulin to help reduce the hbalc (hemoglobin A1c) while Novodra (injectable) insulin required less dosage of the insulin to help reduce the hbalc (hemoglobin A1c).
+
+## Limitation
+- The datasets are not based on consecutive weeks trials of the treatments, which made it hard to provide valuable data insights using statistical models.
+- The datasets are not real but they are constraints to real-world insulin treatment data.
+
 
 ## Conclusions
 > The project was done to test the effectiveness of the new oral insulin Auralin compared to injectable insulin Novodra in diabetic patients. The results of the trial demonstrate that the new Auralin oral insulin is noninferior to the standard Novadra injectable insulin for reducing HbA1c in patients with type 1 diabetes.
