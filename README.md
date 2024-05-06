@@ -67,7 +67,7 @@ Auralin (oral) insulin required more dosage of the insulin to help reduce the hb
 ## Conclusions
 > The project was done to test the effectiveness of the new oral insulin Auralin compared to injectable insulin Novodra in diabetic patients. The results of the trial demonstrate that the new Auralin oral insulin is noninferior to the standard Novadra injectable insulin for reducing HbA1c in patients with type 1 diabetes.
 
-> You can check out the full documentation <a href=''>here</a>
+> You can check out the full documentation <a href='https://medium.com/@samueloyedele/oral-insulin-phase-ii-clinical-trial-data-analysis-using-python-10830c2f8650'>here</a>
 
 ## Skills and Technologies
 - Python libraries (Pandas, Matplotlib, NumPy, Seaborn)
